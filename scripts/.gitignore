@@ -6,6 +6,8 @@
 !common/**
 !aes_cipher_top
 !aes_cipher_top/**
+!picorv32/
+!picorv32/**
 !coyote_tc
 !coyote_tc/**
 !gcd
