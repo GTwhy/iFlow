@@ -8,3 +8,5 @@
 !gcd/*
 !uart
 !uart/*
+!picorv32
+!picorv32/*
